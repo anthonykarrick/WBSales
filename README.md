@@ -1,4 +1,4 @@
-# OpenSea Sales Twitter Bot 🤖
+# OpenSea Wild Bunch Sales Twitter Bot 🤖
 
 A (quickly put together) bot that monitors Opensea sales for a given collection & then posts them to Twitter.
 
@@ -6,7 +6,7 @@ A (quickly put together) bot that monitors Opensea sales for a given collection 
 
 ## Donations 💵
 
-If you find this script/repo useful for your project, any ETH/Altcoin/NFT donations are greatly appreciated 🙏
+If you find this script/repo useful for your project, any ETH/Altcoin/Wild One donations are greatly appreciated as I am a poor young dad 🙏
 
 Eth Address: 0x58e14A5f2190Ae4B97A597A0648f59Ae5dE46d83
 
