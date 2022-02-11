@@ -8,7 +8,7 @@ A (quickly put together) bot that monitors Opensea sales for a given collection 
 
 If you find this script/repo useful for your project, any ETH/Altcoin/NFT donations are greatly appreciated 🙏
 
-Eth Address: 0xDCA88f66CEc8972D23DE7d5e69c40E087C92132f
+Eth Address: 0x58e14A5f2190Ae4B97A597A0648f59Ae5dE46d83
 
 ## Requirements 📝
 
@@ -63,3 +63,5 @@ As mentioned at the top of the README, it runs every 60 seconds by default - you
 This code is licensed under the [ISC License](https://choosealicense.com/licenses/isc/).
 
 Please include proper attribution to my original repo if you fork, modify or utilize this repo in any way. Thank you!
+
+I am using this for Wild ones but this is the original license to give credit to!
